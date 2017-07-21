@@ -3,7 +3,7 @@
 exports[`renders correctly 1`] = `
 <a
   className="normal"
-  href="http://www.instagram.com"
+  href="http://www.intagram.com"
   onMouseEnter={[Function]}
   onMouseLeave={[Function]}
 >
